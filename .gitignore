@@ -1,0 +1,9 @@
+node_modules/
+dist/
+worker.js
+.session-secret
+*.log
+.DS_Store
+android/
+.wrangler/
+.freebuff/
